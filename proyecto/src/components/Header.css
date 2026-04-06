@@ -1,0 +1,36 @@
+.header {
+  background: linear-gradient(135deg, #66b5ea 0%, #4c4ba2 100%);
+  color: white;
+  padding: 100px;
+  text-align: center;
+}
+
+.header-content h1 {
+  font-size: 5rem;
+  margin-bottom: 30px;
+}
+
+.header-content p {
+  opacity: 0.9;
+  font-size: 1.6rem;
+}
+
+.search-box {
+  margin-top: 20px;
+}
+
+.search-box input {
+  width: 100%;
+  max-width: 600px;
+  padding: 20px 30px;
+  border: none;
+  border-radius: 25px;
+  font-size: 1rem;
+  outline: none;
+  transition: transform 0.3s ease;
+}
+
+.search-box input:focus {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
