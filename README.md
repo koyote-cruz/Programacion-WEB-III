@@ -1,5 +1,5 @@
-# Programacion-WEB-III
-inicar backend
-...\backend>npm run start
-inicar frontend
-...\frontend\tienda>npm run dev
+# Programacion-WEB-III<br>
+- inicar backend<br>
+- ...\backend>npm run start<br>
+i inicar frontend<br>
+...\frontend\tienda>npm run dev<br>
